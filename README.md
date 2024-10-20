@@ -1,5 +1,5 @@
 # Easy Boot Loader
-ejemplo para mis clasees de un Boot Loader para Linux. El objetivo es entender como arrancan los sistemas operativos
+Ejemplo para mis clasees de un Boot Loader para Linux. El objetivo es entender como arrancan los sistemas operativos
 
 Para probar el bootloader:
 
